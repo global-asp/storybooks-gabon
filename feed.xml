@@ -4,11 +4,11 @@
     <title>Histoires pour Gabon</title>
     <description>Histoires pour Gabon is designed specifically for teachers, parents, and community members and makes 40 stories from the African Storybook available with text and audio in French and Fang, as well as the most widely spoken languages of Gabon.
 </description>
-    <link>https://histoiresgabon.ga//</link>
-    <atom:link href="https://histoiresgabon.ga//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 May 2020 17:14:39 -0700</pubDate>
-    <lastBuildDate>Wed, 06 May 2020 17:14:39 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>https://histoirespourgabon.ga//</link>
+    <atom:link href="https://histoirespourgabon.ga//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Jun 2021 15:23:51 -0700</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 15:23:51 -0700</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
     
   </channel>
 </rss>
